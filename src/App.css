@@ -1,15 +1,28 @@
 .title {
-  color: aqua;
-  font-size: 40px;
+  color: rgb(12, 12, 12);
+  font-size: 20px;
+  
+}
+.bql
+{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: aliceblue;
+}
+.xx
+{
+  height: 180px;
+  width:100%;
+}
+.xs
+{
+  height: 100px;
+  width: 48%;
+}
+.app{
+  padding-bottom: 49px;
 }
 
-.xtitle {
-  color: #61dafb;
-  background-color: black;
-}
-.xxtitle{
-  color: blue;
-  background-color: aquamarine;
-}
 
 
